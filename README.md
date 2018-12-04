@@ -1,5 +1,5 @@
 # Interactive-Dictionary
-A Python Based Command Line Interface that provides the definitions for words entered by the user
+A Simple Python Based Command Line Interface that provides the definitions for words entered by the user
 
 This dictionary contains the defintions for over 49 000 English words. Some words have more than one definition.
 
